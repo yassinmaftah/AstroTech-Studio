@@ -307,7 +307,7 @@ a{
   height: 282px ;
   width: 1152px;
   display: flex;
-  align-self: flex-start;
+  justify-content: space-evenly;
   margin: 50px auto;
 }
 
